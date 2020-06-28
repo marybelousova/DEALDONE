@@ -1,0 +1,11 @@
+html .border-left {
+    border-left-width: 4px !important;
+}
+
+.card {
+    border: none;
+}
+
+.card-header {
+    background-color: transparent;
+}
