@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/marybelousova/DEALDONE",
-  "name": "stackaton",
+  "homepage": "https://github.com/marybelousova/DEALDONE.git",
+  "name": "dealdone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
