@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/marybelousova/DEALDONE/static/css/main.eda3da85.chunk.css",
-    "main.js": "/marybelousova/DEALDONE/static/js/main.9258081b.chunk.js",
-    "main.js.map": "/marybelousova/DEALDONE/static/js/main.9258081b.chunk.js.map",
-    "runtime-main.js": "/marybelousova/DEALDONE/static/js/runtime-main.0fc000ad.js",
-    "runtime-main.js.map": "/marybelousova/DEALDONE/static/js/runtime-main.0fc000ad.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/marybelousova/DEALDONE/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.01d9717c.chunk.js": "/marybelousova/DEALDONE/static/js/2.01d9717c.chunk.js",
-    "static/js/2.01d9717c.chunk.js.map": "/marybelousova/DEALDONE/static/js/2.01d9717c.chunk.js.map",
-    "index.html": "/marybelousova/DEALDONE/index.html",
-    "precache-manifest.2e9cabc3aa32ba91ea2003071a802945.js": "/marybelousova/DEALDONE/precache-manifest.2e9cabc3aa32ba91ea2003071a802945.js",
-    "service-worker.js": "/marybelousova/DEALDONE/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/marybelousova/DEALDONE/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.eda3da85.chunk.css.map": "/marybelousova/DEALDONE/static/css/main.eda3da85.chunk.css.map",
-    "static/js/2.01d9717c.chunk.js.LICENSE.txt": "/marybelousova/DEALDONE/static/js/2.01d9717c.chunk.js.LICENSE.txt"
+    "main.css": "/marybelousova/DEALDONE.git/static/css/main.eda3da85.chunk.css",
+    "main.js": "/marybelousova/DEALDONE.git/static/js/main.a21cca51.chunk.js",
+    "main.js.map": "/marybelousova/DEALDONE.git/static/js/main.a21cca51.chunk.js.map",
+    "runtime-main.js": "/marybelousova/DEALDONE.git/static/js/runtime-main.562bbddb.js",
+    "runtime-main.js.map": "/marybelousova/DEALDONE.git/static/js/runtime-main.562bbddb.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/marybelousova/DEALDONE.git/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f908b225.chunk.js": "/marybelousova/DEALDONE.git/static/js/2.f908b225.chunk.js",
+    "static/js/2.f908b225.chunk.js.map": "/marybelousova/DEALDONE.git/static/js/2.f908b225.chunk.js.map",
+    "index.html": "/marybelousova/DEALDONE.git/index.html",
+    "precache-manifest.3e7c6191ac820ac6e0cff8ba4af21ad2.js": "/marybelousova/DEALDONE.git/precache-manifest.3e7c6191ac820ac6e0cff8ba4af21ad2.js",
+    "service-worker.js": "/marybelousova/DEALDONE.git/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/marybelousova/DEALDONE.git/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.eda3da85.chunk.css.map": "/marybelousova/DEALDONE.git/static/css/main.eda3da85.chunk.css.map",
+    "static/js/2.f908b225.chunk.js.LICENSE.txt": "/marybelousova/DEALDONE.git/static/js/2.f908b225.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0fc000ad.js",
+    "static/js/runtime-main.562bbddb.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.01d9717c.chunk.js",
+    "static/js/2.f908b225.chunk.js",
     "static/css/main.eda3da85.chunk.css",
-    "static/js/main.9258081b.chunk.js"
+    "static/js/main.a21cca51.chunk.js"
   ]
 }
