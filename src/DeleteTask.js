@@ -35,7 +35,7 @@ function DeleteTask(props) {
                 <Modal.Header closeButton>
                     <Modal.Title>Delete task</Modal.Title>
                 </Modal.Header>
-                <Modal.Body>Do you want to delete this task?</Modal.Body>
+                <Modal.Body>Are you sure, that you want to delete this task?</Modal.Body>
                 <Modal.Footer>
                     <Button variant="secondary" onClick={handleCloseModal}>
                         Close

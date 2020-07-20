@@ -16,19 +16,16 @@ function Column(props) {
                      ref={provided.innerRef}
                      style={getStatusStyle(snapshot.isDraggingOver)}
                 >
-                <h5 className="card-header text-center">{status.name} {status.tasks.length > 0 ? status.tasks.length : ''}</h5>
+                <h5 className="card-header text-center">{status.name} 
+                        {status.tasks.length > 0 ? status.tasks.length : ''}</h5>
                 {
                     status.tasks
-                        // .sort((a, b) => { return a.priorityId - b.priorityId} )
                         .map((task, index) => {
                             if(task.statusId === status.id)
                                 return (
                                     <TaskCard key={task.id}
                                                index={index}
-                                               priorities={props.priorities}
                                                task={task}
-                                               updateTask={props.updateTask}
-                                               deleteTask={props.deleteTask}
                                                />
                                     );
                             })
