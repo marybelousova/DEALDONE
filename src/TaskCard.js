@@ -17,9 +17,7 @@ function TaskCard(props) {
 
 
     const getItemStyle = (isDragging, draggableStyle) => ({
-        // change background colour if dragging
         background: isDragging ? "lightgrey" : "",
-        // styles we need to apply on draggables
         ...draggableStyle
     });
     
