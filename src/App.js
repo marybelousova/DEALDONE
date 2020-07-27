@@ -1,5 +1,4 @@
 import React, {useState} from 'react';
-import CreateTaskForm from "./CreateTaskForm";
 import Column from "./Column";
 import {v4 as uuidv4} from 'uuid';
 import { DragDropContext } from 'react-beautiful-dnd';
@@ -9,12 +8,6 @@ const statuses = [
     {id: 2, tasks: [], queue: 2, name: 'In Progress'},
     {id: 3, tasks: [], queue: 3, name: 'Review'},
     {id: 4, tasks: [], queue: 4, name: 'Done'}
-]
-
-const priorities = [
-    {id: 1, priority: 'High Priority'},
-    {id: 2, priority: 'Medium Priority'},
-    {id: 3, priority: 'Low Priority'}
 ]
 
 const initTasks = [
@@ -69,8 +62,7 @@ function App() {
         <div>
             <div className="container">
                 <h2>DEALDONE</h2>
-                <CreateTaskForm data={data}
-                />
+                
                 <div className="row">
                 <DragDropContext onDragEnd={onDragEnd}>
                     {
