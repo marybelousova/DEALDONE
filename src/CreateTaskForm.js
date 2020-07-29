@@ -15,8 +15,8 @@ function CreateTaskForm (props) {
         setTaskInput(e.target.value);
     }
 
-    const taskCreate = (e) => {
-        e.preventDefault();
+    const taskCreate = (event) => {
+        event.preventDefault();
         const newTask = {
             id: uuidv4(),
             name: taskInput,
@@ -33,7 +33,7 @@ function CreateTaskForm (props) {
         taskReset();
     }
 
-    const taskReset = (e) => {
+    const taskReset = (event) => {
         setTaskInput('');
         setTaskPriority(priorities[priorities.length - 1].id);
         setIsOpenCreateTaskForm(false);
