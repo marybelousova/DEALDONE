@@ -1,1 +1,2 @@
-This is a front-end application to manage tasks.
+
+Front-end React application to manage tasks with nutire drag and drop experience 
