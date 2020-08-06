@@ -1,4 +1,3 @@
-
 Front-end React application to manage tasks with nature drag and drop experience with library React-beautiful-dnd.
 
 
